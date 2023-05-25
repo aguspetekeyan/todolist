@@ -229,6 +229,16 @@ body {
 }
 
 
+.footer{
+  position: absolute;
+  left: 20rem;
+  bottom: 25.5rem;
+  color: #ffff;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+
 @media Screen and (max-width: 640px) {
 
   .ban{
@@ -318,5 +328,11 @@ body {
   }
   .card {
     margin-right: 0;
+  }
+
+  .footer{
+    left: 2rem;
+    bottom: 26rem;
+    color: #5d99ff;
   }
 }

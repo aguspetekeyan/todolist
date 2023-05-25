@@ -24,7 +24,11 @@ function App() {
         <Todos />
         <DisplayTodos />
       </motion.div>
+      <div className="footer">
+        <p>Note : Untuk Menyimpan Hasil Update tekan tombol Enter</p>
     </div>
+    </div>
+
     </div>
   );
 }
