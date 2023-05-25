@@ -186,6 +186,7 @@ body {
   max-width: 19rem;
   min-height: 3rem;
   max-height: 8rem;
+  background-color: #ffff;
 }
 .card textarea:disabled {
   
@@ -276,7 +277,9 @@ body {
     height: 4rem;
     max-width: 15rem;
     min-height: 3rem;
+    padding: 0;
     max-height: 6rem;
+    background-color: #ffff;
   }
 
   .card .btns {
