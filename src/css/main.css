@@ -332,7 +332,8 @@ body {
 
   .footer{
     left: 2rem;
-    bottom: 26rem;
+    bottom: 29.5rem;
+    font-size: 0.7rem;
     color: #5d99ff;
   }
 }
