@@ -185,6 +185,7 @@ body {
   height: 4rem;
   max-width: 19rem;
   min-height: 3rem;
+  padding:12px;
   max-height: 8rem;
   background-color: #ffff;
 }
@@ -277,7 +278,7 @@ body {
     height: 4rem;
     max-width: 15rem;
     min-height: 3rem;
-    padding: 0;
+    padding: 4px;
     max-height: 6rem;
     background-color: #ffff;
   }
