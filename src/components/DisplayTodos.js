@@ -34,7 +34,7 @@ const DisplayTodos = (props) => {
 
   return (
     <div className="displaytodos">
-      <div className={"buttons ${isActive ? 'active' : ''}"}>
+      <div className={"buttons"}>
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.9 }}
